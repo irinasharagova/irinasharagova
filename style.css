@@ -56,8 +56,10 @@ input {
     height: 40px;
     color: #2c71b8;
     background-color: rgb(202,219,237);
-   border: 1px solid #2c71b8;}
-input::placeholder {color: #2c71b8;}
+    border: 1px solid #2c71b8;
+    font-size: 21px;
+}
+input::placeholder {color: #2c71b8;font-family: 'Roboto', sans-serif ;}
 .col1 img {
     position: absolute;
     display: block;
