@@ -83,12 +83,12 @@ padding: 25px 0;}
 }
 input::placeholder {color: #2c71b8;font-family: 'Roboto', sans-serif ;}
 
-.col2 img {
-    display: block;
+.col2 {background-image: url(images/icon\ \(1\).png);
     width: 40px;
     height: 40px;
     background-color: white;
-    padding: 10px;
+    background-repeat: no-repeat;
+    background-position: 10px;
 }
 .col2 div {
     display: block;
