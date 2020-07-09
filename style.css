@@ -110,11 +110,12 @@ input::placeholder {color: #2c71b8;font-family: 'Roboto', sans-serif ;}
     opacity: 0;
     visibility: hidden;
 }
-.menu li:hover #submenu{
+.menu li:hover #submenu,
+.menu li:focus-within #submenu 
+.menu li #submenu:hover {
     opacity:1;
     visibility: visible;
 }
-.pro:focus-within {background-color: #2c71b8; color: white;}
 #submenu li:first-child {height: 65px; padding-top: 25px; }
 #submenu li {
     float: none;
@@ -132,6 +133,5 @@ input::placeholder {color: #2c71b8;font-family: 'Roboto', sans-serif ;}
     color: white ;
 }
 #submenu li a:hover {background-color: white; color: #2c71b8;}
-.products:focus-within{background-color: #2c71b8; color: white;}
 
 
