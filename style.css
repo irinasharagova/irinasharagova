@@ -133,5 +133,92 @@ input::placeholder {color: #2c71b8;font-family: 'Roboto', sans-serif ;}
     color: white ;
 }
 #submenu li a:hover {background-color: white; color: #2c71b8;}
-
-
+.block2 {
+    float: left;
+    display: block;
+}
+.block1 {
+    float: left;
+    display: block;
+}
+.main {
+    content: ""; 
+    clear: both;
+    display:block;
+    width: 1170px;
+    margin: 0 auto;
+}
+.block1 {
+    width: 270px;
+    height: 840px;
+    background-color: rgb(95,147,201);
+    margin-right: 15px;
+}
+.history li {
+    float: left;
+    margin-right: 15px;   
+}
+.history li a {
+    text-decoration: none; 
+    color: white;
+}
+.history {
+    content: ""; clear: both;display: block;
+    height: 30px;
+    margin: 20px 0 0 15px;}
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+    margin: 0 0 50px 15px;
+}
+.col {
+    float: left;
+    width: 270px;
+    height: 650px;
+    border: rgb(202,219,237) 1px solid;
+    margin: 0 15px;
+    }
+.row1 {clear: both; content: "";display: block;}
+.row2 {clear: both; content: "";display: block;}
+.row3 {clear: both; content: "";display: block;}
+.col:last-child{margin-right: 0px;}
+.image {
+        height: 180px;
+        background-color: rgba(202, 219, 237, 0.75);
+        text-align: center;
+        padding-top: 45px;
+    }
+.col ul li {
+    text-align: center;
+    margin: 15px 0 10px 0;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+}
+.discription ul li{
+    font-size: 21px;
+    font-weight: normal;
+    text-align: left;
+    margin: 15px 0 0 15px;
+}
+span {
+    font-weight: bold;
+}
+button {
+    height: 50px;
+    width: 210px;
+    border: white 1px solid;
+    background-color: rgb(44, 113, 184);
+    color: white;
+    font-weight: bold;
+    font-size: 21px;
+}
+.button {
+    background-color: rgba(86, 141, 198, 0.75);
+    border: none;
+    background-image: url(images/icon\ \(2\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+sup {font-size: 10px;}
