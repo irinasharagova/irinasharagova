@@ -224,75 +224,130 @@ input.button {
     background-position: right;
     background-position-x: 180px;
 }
-.device1{
-    display: block;
+.fon1{
+    position: relative;
     height: 180px;
-    background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(17\).png);
+    background-image: url(images/icon\ \(17\).png);
     background-color: rgba(255, 255, 255, 0.75);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
+    background-position: center;
     background-repeat: no-repeat;}
-.device2{
-    display: block;
+.like1 {
+    position: absolute;
+    background-image: url(images/icon\ \(5\).png);
+    width: 30px;
+    height: 30px;
+    margin: -130px 0 0 230px;
+    border: rgb(44, 113, 184) 1px solid;
+    background-color:none ;
+    background-repeat: no-repeat;
+    background-position: center;}
+.border1 {
+    position: absolute;
+    background-image: url(images/icon\ \(8\).png);
+    width: 30px;
+    height: 30px;
+    margin: -170px 0 0 230px;
+    border: rgb(44, 113, 184) 1px solid;
+    background-color:none ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.fon2{
+    position: relative;
     height: 180px;
-    background-image: url(images/icon\ \(8\).png), url(images/icon\ \(7\).png), url(images/icon\ \(9\).png);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-color:rgba(255, 255, 255, 0.75);
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
-    background-repeat: no-repeat;}
-.device3{
-    display: block;
-    height: 180px;
+    background-image: url(images/icon\ \(11\).png);
     background-color: rgba(255, 255, 255, 0.75);
-    background-image: url(images/icon\ \(6\).png), url(images/icon\ \(5\).png), url(images/icon\ \(13\).png);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
+    background-position: center;
     background-repeat: no-repeat;}
-.device4{
-    display: block;
+.like2 {
+    position: absolute;
+    background-image: url(images/icon\ \(7\).png);
+    width: 30px;
+    height: 30px;
+    margin: -130px 0 0 230px;
+    border: rgb(44, 113, 184) 1px solid;
+    background-color: rgb(44, 113, 184);
+    background-repeat: no-repeat;
+    background-position: center;}
+.border2 {
+    position: absolute;
+    background-image: url(images/icon\ \(8\).png);
+    width: 30px;
+    height: 30px;
+    margin: -170px 0 0 230px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.fon3{
+    position: relative;
     height: 180px;
+    background-image: url(images/icon\ \(10\).png);
     background-color: rgba(255, 255, 255, 0.75);
-    background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(16\).png);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
+    background-position: center;
     background-repeat: no-repeat;}
-.device5{
-    display: block;
+.like3 {
+    position: absolute;
+    background-image: url(images/icon\ \(5\).png);
+    width: 30px;
+    height: 30px;
+    margin: -130px 0 0 230px;
+    background-color: none;
+    border: rgb(44, 113, 184) 1px solid;
+    background-color:none;
+    background-repeat: no-repeat;
+    background-position: center;}
+.border3 {
+    position: absolute;
+    background-image: url(images/icon\ \(6\).png);
+    width: 30px;
+    height: 30px;
+    margin: -170px 0 0 230px;
+    background-color:rgb(44, 113, 184);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.fon4{
+    position: relative;
     height: 180px;
+    background-image: url(images/icon\ \(16\).png);
     background-color: rgba(255, 255, 255, 0.75);
-    background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(14\).png);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
+    background-position: center;
     background-repeat: no-repeat;}
-.device6{
-    display: block;
+.fon5{
+    position: relative;
     height: 180px;
+    background-image: url(images/icon\ \(14\).png);
     background-color: rgba(255, 255, 255, 0.75);
-    background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(12\).png);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
+    background-position: center;
     background-repeat: no-repeat;}
-.device7{
-    display: block;
+.fon6{
+    position: relative;
     height: 180px;
+    background-image: url(images/icon\ \(12\).png);
     background-color: rgba(255, 255, 255, 0.75);
-    background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(15\).png);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
+    background-position: center;
     background-repeat: no-repeat;}
-.device8{
-    display: block;
+.fon7 {
+    position: relative;
     height: 180px;
+    background-image: url(images/icon\ \(15\).png);
     background-color: rgba(255, 255, 255, 0.75);
-    background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(9\).png);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
+    background-position: center;
     background-repeat: no-repeat;}
-.device9{
-    display: block;
+.fon8{
+    position: relative;
     height: 180px;
+    background-image: url(images/icon\ \(11\).png);
     background-color: rgba(255, 255, 255, 0.75);
-    background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(13\).png);
-    background-position: right 15px top 15px, right 15px top 50px , center;
-    background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
+    background-position: center;
     background-repeat: no-repeat;}
+
+.fon9{
+    position: relative;
+    height: 180px;
+    background-image: url(images/icon\ \(13\).png);
+    background-color: rgba(255, 255, 255, 0.75);
+    background-position: center;
+    background-repeat: no-repeat;}
+
