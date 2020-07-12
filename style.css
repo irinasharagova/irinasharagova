@@ -186,8 +186,6 @@ input::placeholder {color: #2c71b8;font-family: 'Roboto', sans-serif ;
     height: 650px;
     border: rgb(202,219,237) 1px solid;
     margin: 0 15px;
-    background-image: url(images/icon\ \(5\).png);
-    background-image: url(images/icon\ \(8\).png);
 }
 .row1:after{clear: both; content: "";display: block;}
 .row1 {margin-top: 50px}
@@ -229,25 +227,22 @@ input.button {
 .device1{
     display: block;
     height: 180px;
-    border: white;
-    background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(17\).png);
+    background-color: rgba(255, 255, 255, 0.75);
     background-position: right 15px top 15px, right 15px top 50px , center;
     background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
     background-repeat: no-repeat;}
 .device2{
     display: block;
     height: 180px;
-    border: white;
-    background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(8\).png), url(images/icon\ \(7\).png), url(images/icon\ \(9\).png);
     background-position: right 15px top 15px, right 15px top 50px , center;
+    background-color:rgba(255, 255, 255, 0.75);
     background-size: 30px 30px padding 5px , 30px 30px padding 5px, auto;
     background-repeat: no-repeat;}
 .device3{
     display: block;
     height: 180px;
-    border: white;
     background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(6\).png), url(images/icon\ \(5\).png), url(images/icon\ \(13\).png);
     background-position: right 15px top 15px, right 15px top 50px , center;
@@ -256,7 +251,6 @@ input.button {
 .device4{
     display: block;
     height: 180px;
-    border: white;
     background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(16\).png);
     background-position: right 15px top 15px, right 15px top 50px , center;
@@ -265,7 +259,6 @@ input.button {
 .device5{
     display: block;
     height: 180px;
-    border: white;
     background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(14\).png);
     background-position: right 15px top 15px, right 15px top 50px , center;
@@ -274,7 +267,6 @@ input.button {
 .device6{
     display: block;
     height: 180px;
-    border: white;
     background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(12\).png);
     background-position: right 15px top 15px, right 15px top 50px , center;
@@ -283,7 +275,6 @@ input.button {
 .device7{
     display: block;
     height: 180px;
-    border: white;
     background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(15\).png);
     background-position: right 15px top 15px, right 15px top 50px , center;
@@ -292,7 +283,6 @@ input.button {
 .device8{
     display: block;
     height: 180px;
-    border: white;
     background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(9\).png);
     background-position: right 15px top 15px, right 15px top 50px , center;
@@ -301,7 +291,6 @@ input.button {
 .device9{
     display: block;
     height: 180px;
-    border: white;
     background-color: rgba(255, 255, 255, 0.75);
     background-image: url(images/icon\ \(5\).png), url(images/icon\ \(8\).png), url(images/icon\ \(13\).png);
     background-position: right 15px top 15px, right 15px top 50px , center;
